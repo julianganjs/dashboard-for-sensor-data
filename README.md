@@ -12,11 +12,11 @@ This repository contains the source code for a web dashboard that displays senso
 - jQuery
 
 ## Code Structure
-- [dashboard_ui.html](https://github.com/julianganjs/dashboard-sensor-data/blob/main/dashboard_ui.html): The main page with all design elements created.
-- [firstpage.html](https://github.com/julianganjs/dashboard-sensor-data/blob/main/firstpage.html): The first page to access all different sensor data types.
+- [dashboard_ui.html](https://github.com/julianganjs/dashboard-sensor-data/blob/main/dashboard_ui.html): The main page with all the different design elements.
+- [firstpage.html](https://github.com/julianganjs/dashboard-sensor-data/blob/main/firstpage.html): The first page to access all the different sensor data types.
 - [chamber.html](https://github.com/julianganjs/dashboard-sensor-data/blob/main/chamber.html): An example page that displays HAST chamber sensor data.
 - [ove_11.html](https://github.com/julianganjs/dashboard-sensor-data/blob/main/ove_11.html): An example page that displays oven temperature sensor data.
-- [assets](https://github.com/julianganjs/dashboard-sensor-data/blob/main/assets): Contains all the needed styles, libraries, fonts and frameworks needed for all webpages to work and look properly.
+- [assets](https://github.com/julianganjs/dashboard-sensor-data/blob/main/assets): Contains all the styles, libraries, fonts and frameworks needed for all webpages to work and look properly.
 - [js](https://github.com/julianganjs/dashboard-sensor-data/blob/main/js): Contains all the needed JavaScript libraries for all webpages to work properly.
 - .jpg and .gif files: Various images and gifs used in the web pages.
 
