@@ -28,7 +28,7 @@ This repository contains the source code for a web dashboard that displays senso
 ## Examples
 - ### dashboard_ui.html
   <img src="https://github.com/julianganjs/dashboard-sensor-data/assets/127673790/9e72d051-e0b1-4a73-af57-3f9a2d3ba34c" width="650vw">
-  <br>The dashboard is equipped with drop-down menus to filter and display specific sensor data only.<br>
+  <br>The dashboard is equipped with drop-down menus to filter and display specific sensor data.<br>
 - ### firstpage.html
   <img src="https://github.com/julianganjs/dashboard-sensor-data/assets/127673790/ac019e38-5e99-48e9-a2a9-3b4cb71ea2af" width="650vw">
 - ### chamber.html
