@@ -4,6 +4,9 @@ This repository contains the source code for a web dashboard that displays senso
 > ### Disclaimer
 > Due to confidential policies, the original and fully working dashboard cannot be published in this repository for obvious reasons. Hence, the HTML files provided will only include the design elements which I have created during the development of the dashboard. These web pages are just examples of the work I have done during the internship. 😄
 
+A live demo version can be accessed through the following link:<br />
+https://polite-ground-0aed79900.5.azurestaticapps.net/
+
 ## JavaScript Libraries/Frameworks
 - Bootstrap 5
 - Chart.js
