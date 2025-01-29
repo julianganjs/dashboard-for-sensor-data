@@ -1,11 +1,11 @@
 # Dashboard for Live Sensor Data
 This repository contains the source code for a web dashboard that displays sensor data. This dashboard is one of the projects that was assigned to me during an internship. The sensor data displayed includes oven temperatures, freezer temperatures, environmental temperature and humidity, electrostatic discharge and HAST chamber conditions.
 
-> ### Disclaimer
+> [!WARNING]
 > Due to confidential policies, the original and fully working dashboard cannot be published in this repository for obvious reasons. Hence, the HTML files provided will only include the design elements which I have created during the development of the dashboard. These web pages are just examples of the work I have done during the internship. 😄
 
 A live demo version can be accessed through the following link:<br />
-https://polite-ground-0aed79900.5.azurestaticapps.net/
+~~https://polite-ground-0aed79900.5.azurestaticapps.net/~~ <sub>The website is currently offline.</sub>
 
 ## JavaScript Libraries/Frameworks
 - Bootstrap 5
